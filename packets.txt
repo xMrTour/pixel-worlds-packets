@@ -1,0 +1,5 @@
+Pixel Worlds Packets?
+
+"HB" : sent on block punch
+"WCM" : sent on player talking
+"mP" : ?????
